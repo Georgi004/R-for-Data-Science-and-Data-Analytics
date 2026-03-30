@@ -1,0 +1,15 @@
+Concluzii Finale
+1. Ce întrebare ai rezolvat?
+Proiectul a rezolvat întrebarea strategică privind probabilitatea ca filmele lansate recent să obțină un succes critic (scor peste 7.5) în funcție de durata lor. Am investigat dacă formatul „fast-content” (sub 90 min) este într-adevăr mai eficient pentru platformă decât filmele de lung metraj.
+
+2. Ce arată modelul tău?
+Modelul arată că filmele mai lungi au o rată de succes semnificativ mai mare. Datele indică o rată de succes de 5.2% pentru filmele sub 90 de minute, comparativ cu 8.5% pentru cele care depășesc această durată.
+3. Care factori influențează cel mai mult?
+Factorul care influențează cel mai mult succesul este runtime (durata), având un impact pozitiv confirmat de coeficientul de 0.012. De asemenea, analiza sugerează că, odată cu trecerea anilor, standardele publicului cresc, fiind tot mai greu de obținut note mari.
+
+4. Este modelul fiabil?
+Modelul este fiabil pentru identificarea tendințelor generale, reușind să reducă incertitudinea datelor brute prin metoda regresiei logistice. Datele demonstrează o legătură directă între durata producției și aprecierea publicului, favorizând filmele mai lungi.
+
+5. Ce ar prezenta Alex într-un slide pentru CEO?
+Într-un slide pentru CEO, Alex ar evidenția faptul că filmele de lung metraj au o rată de succes aproape dublă față de cele scurte (8.5% față de 5.2%). Mesajul central pentru Nico este că „fast-content-ul” nu garantează note mai bune, calitatea fiind asociată cu poveștile complexe.
+Recomandarea finală: Menținerea unui echilibru al duratei între 90 și 120 de minute pentru a maximiza șansele de a obține un hit critic.
