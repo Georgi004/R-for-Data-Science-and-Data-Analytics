@@ -1,0 +1,5 @@
+Concluzii Finale
+- Datele ne arata clar ca oamenii citesc mai mult pe masura ce inainteaza in varsta, dar mai ales cu cat sunt membri de mai mult timp. 
+- Modelul este foarte precis si reuseste sa explice 85% din ce se intampla in biblioteca, cu o eroare de doar 3-4 carti. 
+- Am descoperit ca fidelitatea conteaza cel mai mult: fiecare an de 'vechime' ca membru aduce de 6 ori mai multe carti citite decat un an in plus de viata. 
+- Sfatul meu pentru conducere este simplu: merita sa investim mai mult in pastrarea membrilor actuali, pentru ca ei sunt cei care ridica cel mai mult consumul de carte.
